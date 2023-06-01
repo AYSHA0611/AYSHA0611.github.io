@@ -1,0 +1,100 @@
+body{
+    background-image:url("https://bikefriendlyoc.files.wordpress.com/2016/09/website-background-pattern.jpg");
+}
+.logo{
+    float:left;
+    margin-right:0;
+    margin-top: 0;
+    width: 140px;
+    padding-top: 0;
+    background-color:rgb(193, 153, 153);
+    padding-left: 0;
+}
+nav ul{
+    list-style-type: none;
+        margin:0;
+        padding:60px;
+        float:right;
+        padding-right: 0;
+        background-color:black;
+        margin-top:0px;
+        padding-top:5px;
+        padding-bottom: 10px;
+        padding-left:52%;
+        padding-right: 50px;
+    
+}
+nav li{
+    display: inline-block;
+}
+nav a{
+    display: block;
+    padding:10px 15px;
+    text-decoration: none;
+    font-size:large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;  
+    padding-top:17px; 
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.message{
+    padding:10px;
+    padding-right:175px;
+    padding-bottom:100px;
+    font-size: larger;
+}
+.phone{
+    padding:10px;
+    padding-right: 247px;
+}
+.name{
+    padding:10px;
+    padding-right: 30px;
+}   
+.mail{
+    padding:10px;
+    padding-right: 38px;
+}
+main{
+    text-align: center;
+}
+
+h6{
+    background-image: url("https://cdn.shopify.com/s/files/1/0527/8367/7631/files/BEYOND_HERO_02_cbc868f3-0828-42c6-b6f3-55075a3f0837_1600x.jpg?v=1637147492");
+    background-size: cover;
+    padding:300px;
+    padding-left:80px;
+}
+
+.B{
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.logo2{
+    float:right;
+    margin-right:10px;
+    width: 150px;
+    margin-top:10px;
+    background-color: rgb(193, 153, 153);
+}
+#A{
+    text-align: center;
+        font-size: small;
+}
+form{
+        
+    margin-top: 0;
+    padding-top:0;
+}
+footer{
+    background-color: black;
+    color:white;
+    padding:70px;
+    padding-top: 5px;
+    padding-bottom:10px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
